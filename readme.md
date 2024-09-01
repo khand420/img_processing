@@ -1,5 +1,3 @@
-Here's a `README.md` file that you can use for your Django application. This file provides a brief overview, setup instructions, API documentation, and deployment guidelines.
-
 ```markdown
 # Image Processing System
 
@@ -134,11 +132,6 @@ Include a visual diagram of the system architecture (using a tool like Draw.io) 
 
 A Postman collection is provided for testing the APIs. You can import it into Postman using the following link:
 
-[Postman Collection Link](https://www.postman.com/your-collection-link)
+[Postman Collection Link](https://github.com/khand420/img_processing/Image_processing.postman_collection)
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
-
-This `README.md` file provides a comprehensive guide for setting up, using, and deploying the application. It includes all the necessary details for anyone working on or reviewing the project.
