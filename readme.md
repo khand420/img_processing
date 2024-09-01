@@ -24,15 +24,19 @@ This Django application processes image data from CSV files, compresses the imag
 ### Prerequisites
 
 - Python 3.x
-- Redis (for Celery)
+- Django 3.x or higher
+- Celery 5.x or higher
+- Redis
+- Pillow (Python Imaging Library)
+- Requests library
 
 ### Installation
 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/khand420/image-processing-system.git
-   cd image-processing-system
+   git clone https://github.com/khand420/img_processing.git
+   cd img_processing
    ```
 
 2. **Create a Virtual Environment:**
